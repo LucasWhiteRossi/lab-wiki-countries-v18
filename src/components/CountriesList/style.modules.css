@@ -1,0 +1,10 @@
+.little-flag{
+    width: 30px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.country-name{
+    text-align: center;
+}

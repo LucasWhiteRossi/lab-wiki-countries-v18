@@ -1,0 +1,16 @@
+.detail-box{
+    padding: 5% 10%; 
+}
+
+.flag-div{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.flag-image{
+    width: 10%;
+    height: auto;
+    margin: 10px;
+}
